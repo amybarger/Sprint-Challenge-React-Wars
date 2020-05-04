@@ -14,8 +14,9 @@ const App = () => {
   return (
     <div className="App">
       <h1 className="Header">Characters</h1>
-      <Character
-       people={character}/>
+      <div className="Character">
+      <Character />
+      </div>
     </div>
   );
 }

@@ -4,5 +4,18 @@
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
+  font-family: fantasy;
+  font-size: 5rem;
+  margin-top: 5%;
 }
 /* write your parent styles in here for your App.js */
+
+.Character {
+  width: 50%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* display: flex;
+  align-items: center;
+  text-align: center; */
+  margin-left: 25%;
+  /* color: red; */
+}
